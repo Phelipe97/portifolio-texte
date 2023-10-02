@@ -20,6 +20,7 @@ body{
     box-sizing: border-box;
     background:var(--preto-especial) ;
     color:var(--branco);
+    
 }
 .cabecalho{
     padding: 2% 0% 0% 15%;
@@ -36,7 +37,7 @@ body{
     text-decoration: none;
 }
 .apresentacao{
-    padding: 3% 15%;
+    padding: 250px;
     display: flex;
     align-items: center;
     justify-content: space-between;
